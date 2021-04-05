@@ -7,6 +7,8 @@ class BlogsController < ApplicationController
 
   def new
   end
+  
+  def
 
   def edit
   end
